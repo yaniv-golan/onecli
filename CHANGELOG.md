@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.1](https://github.com/onecli/onecli/compare/v1.6.0...v1.6.1) (2026-03-25)
+
+
+### Bug Fixes
+
+* rewrite denormalize migration to handle non-empty tables ([#106](https://github.com/onecli/onecli/issues/106)) ([a6e75b7](https://github.com/onecli/onecli/commit/a6e75b7816a58eb8d06e42ab24ab4135a46c2811))
+
 ## [1.6.0](https://github.com/onecli/onecli/compare/v1.5.5...v1.6.0) (2026-03-25)
 
 
